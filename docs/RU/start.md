@@ -3,6 +3,8 @@
 
 🔗 [Правила использования ботом](terms_of_use.md)
 
+🔗 [Политика конфиденциальности](privacy_policy.md)
+
 🔗 [Список изменений и исправленний ошибок](https://docs.google.com/spreadsheets/d/1uxPMFWhcAubggrBgKOzKneD3hLp_mAQ7FEec5xg_CqQ/edit?usp=sharing)
 
 🔗 [Сообщить об ошибке](https://forms.gle/HWH1XK9Muic1ycBC6)
