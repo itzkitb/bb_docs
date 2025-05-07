@@ -66,6 +66,3 @@ If the bot ignores your commands:
 ---
 
 Bot updates regularly! Track [new features & improvements](https://docs.google.com/spreadsheets/d/1uxPMFWhcAubggrBgKOzKneD3hLp_mAQ7FEec5xg_CqQ/edit?usp=sharing). For detailed help use `_help [command]` or click command names in the table.  
-
-**ItzKITb (c) 2025**  
-All rights reserved.
