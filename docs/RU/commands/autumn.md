@@ -16,9 +16,9 @@
 
 ## 💬 Пример использования  
 ```
-20:55 ItzKITЬ: _autumn 
-(Replying to @ItzKITЬ: _autumn) 20:55 butterBror: 🍂 Осень через 117 д. 8 ч. 
+ItzKITЬ: _autumn
+(Replying to @ItzKITЬ: _autumn) butterBror: 🍂 Autumn in 113 d. 7 h.
 
-20:55 ItzKITЬ: _autumn @nickname 
-(Replying to @ItzKITЬ: _autumn @nickname) 20:55 butterBror: 🍂 @nickname Осень через 117 д. 8 ч. 
+ItzKITЬ: _autumn @user
+(Replying to @ItzKITЬ: _autumn @user) butterBror: 🍂 @user Autumn in 113 d. 7 h. 
 ```  
