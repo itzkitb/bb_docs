@@ -1,33 +1,24 @@
-# Команда: Emotes  
-<sup>Автор: [@ItzKITb](twitch.tv/itzkitb)</sup>  
+# Emotes
 
-## 📝 Описание  
-Работа с 7tv эмоутами  
+<span style="color: #666; font-style: italic;">Работа с 7tv эмоутами.</span>
 
-## ⚙️ Параметры  
-| Характеристика        | Значение                     |  
-|-----------------------|------------------------------|  
-| **Псевдонимы**        | `emote`, `emotes`, `эмоут`, `эмоуты`, `7tv`, `seventv`, `семьтелефизоров`, `7тв` |  
-| **Аргументы**         | `(update/random/add {name} (as:{name}, from:{channel})/delete {name}/rename {old_name} {new_name})` |  
-| **Перезарядка**       | - Пользователь: `5 секунд`<br>- Канал: `2 секунды` |  
-| **Доступ только для** | - Модераторы бота: ❌<br>- Разработчики: ❌<br>- Модераторы канала: ❌ |  
-| **Дата создания**     | 07/04/2024 (ДД/ММ/ГГГГ)      |  
-| **Платформы**         | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/512px-Twitch_logo_2019.svg.png" width="16"> Twitch |
+## ℹ️ Описание
 
-## 💬 Пример использования  
-```
-ItzKITЬ: _emote add test 
-butterBror added 7TV emote test.
-(Replying to @ItzKITЬ: _emote add test) butterBror (7tv): FeelsOkayMan test emote added 
+`_emote (update/random/add {name} (as:{name}, from:{channel})/delete {name}/rename {old_name} {new_name})`
 
-ItzKITЬ: _emote rename test as:lmao 
-butterBror renamed 7TV emote test to lmao.
-(Replying to @ItzKITЬ: _emote rename test as:lmao) butterBror (7tv): FeelsOkayMan test → lmao 
+**Пример:** `_emote example example example example example example example`
 
-ItzKITЬ: _emote delete lmao 
-butterBror removed 7TV emote lmao.
-(Replying to @ItzKITЬ: _emote delete lmao) butterBror (7tv): FeelsOkayMan lmao emote removed 
-```
+## 📋 Команда Info
 
-## ⚠ ПРЕДУПРЕЖДЕНИЕ
-Бот должен быть редактором 7tv на канале, чтобы редактировать эмоуты
+| **Свойство** | **Значение** |
+|:----------------|:----------------|
+| **Алиасы** | emote, emotes, эмоут, эмоуты, 7tv, seventv, семьтелефизоров, 7тв |
+| **Платформы** | Twitch |
+| **Кулдаун** | - **Пользователь:** 5 sec<br> - **Канал:** 1 sec |
+| **Права доступа** | - **Модератор бота:** Нет<br> - **Разработчик бота:** Нет<br> - **Модератор канала:** Нет |
+| **Версия** |  |
+| **Дата создания** | 2024-07-04T00:00:00.0000000Z |
+
+---
+
+💡 *Совет: Используйте команду любым из алиасов для более быстрого доступа.*

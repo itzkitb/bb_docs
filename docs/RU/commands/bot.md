@@ -1,35 +1,24 @@
-# Команда: Bot  
-<sup>Автор: [@ItzKITb](https://twitch.tv/itzkitb)</sup>  
+# Bot
 
-## 📝 Описание  
-Главная команда для управления ботом. Позволяет выполнять широкий спектр действий: изменять язык интерфейса, управлять валютой, банить/разбанить пользователей, добавлять/удалять каналы, назначать модераторов и многое другое.  
+<span style="color: #666; font-style: italic;">Главная команда бота.</span>
 
-## ⚙️ Параметры  
-| Характеристика        | Значение                     |  
-|-----------------------|------------------------------|  
-| **Псевдонимы**        | `bot`, `bt`, `бот`, `бт`, `main`, `start`, `старт`, `главная`, `info`, `инфо`, `information`, `информация` |  
-| **Аргументы**         | `lang (set [en/ru])`, `invite`, `currency (adddollars [int])`, `ban [username] (reason)`, `pardon [username]`, `rejoinchannel [channel]`, `addchannel [channel]`, `delchannel [channel]`, `joinchannel [channel]`, `leavechannel [channel]`, `modadd [username]`, `demod [username]` |  
-| **Перезарядка**       | - Пользователь: `10 секунд`<br>- Канал: `5 секунд` |  
-| **Доступ только для** | - Модераторы бота: ❌<br>- Разработчики: ✅ (ограниченные функции)<br>- Модераторы канала: ✅ (ограниченные функции) |  
-| **Дата создания**     | 07/04/2024 (ДД/ММ/ГГГГ)      |  
-| **Платформы**         | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/512px-Twitch_logo_2019.svg.png" width="16"> Twitch<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="16"> Telegram<br><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/b/b7/Discord_logo_svg.svg/675px-Discord_logo_svg.svg.png" width="16"> Discord |  
+## ℹ️ Описание
 
-## 💬 Пример использования  
-```
-ItzKITЬ: _bot 
-(Replying to @ItzKITЬ: _bot) butterBror: 👋 Hello! Commands: itzkitb.lol/bot
+`_bot (lang (set [en/ru]), verify, currency (adddollars [int]), ban [username] (reason), pardon [username], rejoinchannel [channel], addchannel [channel], delchannel [channel], joinchannel [channel], leavechannel [channel], modadd [username], demod [username])`
 
-ItzKITЬ: _bot lang get 
-(Replying to @ItzKITЬ: _bot lang get) butterBror: 🏳️ You have English language set
+**Пример:** `_bot example example example example example example example example example example example example example example example example example example example example example example example example example example`
 
-ItzKITЬ: _bot lang set en 
-(Replying to @ItzKITЬ: _bot lang set en) butterBror: ✅ English language is set 
+## 📋 Команда Info
 
-ItzKITЬ: _bot invite 
-(Replying to @ItzKITЬ: _bot invite) butterBror: ✅ Account verified! Wait for manual check for adding 
-```  
+| **Свойство** | **Значение** |
+|:----------------|:----------------|
+| **Алиасы** | bot, bt, бот, бт, main, start, старт, главная, info, инфо, information, информация |
+| **Платформы** | Twitch, Telegram, Discord |
+| **Кулдаун** | - **Пользователь:** 10 sec<br> - **Канал:** 1 sec |
+| **Права доступа** | - **Модератор бота:** Нет<br> - **Разработчик бота:** Нет<br> - **Модератор канала:** Нет |
+| **Версия** |  |
+| **Дата создания** | 2024-07-04T00:00:00.0000000Z |
 
-### 🔒 Ограничения доступа  
-- **Модераторы канала**: могут использовать команды `ban`, `pardon`, `rejoinchannel`  
-- **Разработчики**: имеют полный доступ ко всем функциям  
-- **Пользователи**: без прав могут использовать команды `lang`, `currency`, `invite`  
+---
+
+💡 *Совет: Используйте команду любым из алиасов для более быстрого доступа.*

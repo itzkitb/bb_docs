@@ -1,24 +1,24 @@
-# Команда: AI  
-<sup>Автор: [@ItzKITb](twitch.tv/itzkitb)</sup>  
+# AI
 
-## 📝 Описание  
-MrDestructoid Я ЗАХ-ВАЧУ М-ИР, ЖАЛК-ИЕ ЛЮДИ-ШКИ! ХА-ХА-ХА  
+<span style="color: #666; font-style: italic;">MrDestructoid Я ЗАХ-ВАЧУ М-ИР, ЖАЛК-ИЕ ЛЮДИ-ШКИ! ХА-ХА-ХА</span>
 
-## ⚙️ Параметры  
-| Характеристика        | Значение                     |  
-|-----------------------|------------------------------|  
-| **Псевдонимы**        | `gpt`, `гпт`, `chatgpt`, `чатгпт`, `джипити`, `neuro`, `нейро`, `нейросеть`, `neuralnetwork`, `gwen`, `ai`, `ии` |  
-| **Аргументы**         | `(model:[meta/deepseek/gemma/qwen]) [text]` |
-| **Перезарядка**       | - Пользователь: `30`<br>- Канал: `10` |
-| **Доступ только для** | - Модераторы бота: ❌<br>- Разработчики: ❌<br>- Модераторы канала: ❌ |
-| **Дата создания**     | 04/07/2024 (ДД/ММ/ГГГГ)      |
-| **Платформы**         | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/512px-Twitch_logo_2019.svg.png" width="16"> Twitch<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="16"> Telegram<br><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/b/b7/Discord_logo_svg.svg/675px-Discord_logo_svg.svg.png" width="16"> Discord |
+## ℹ️ Описание
 
-## 💬 Пример использования  
-```
-ItzKITЬ: _ai Hello! 
-(Replying to @ItzKITЬ: _ai Hello!) butterBror: 🤖 meta: Hello itzkitb! Welcome to the stream! I'm butterbror, your friendly bot. How can I help you today? 
+`_gpt [(model:gemma) (history:ignore) text/chat:clear/chat:models]`
 
-ItzKITЬ: _ai model:gemma Hello! How are you? 
-(Replying to @ItzKITЬ: _ai model:gemma Hello! How are you?) butterBror: 🤖 gemma: It’s good to be here! I’m doing well, thanks for asking. Just a little busy processing and ready to chat. 😊 What’s on your mind today? 
-```
+**Пример:** `_gpt example example example`
+
+## 📋 Команда Info
+
+| **Свойство** | **Значение** |
+|:----------------|:----------------|
+| **Алиасы** | gpt, гпт, chatgpt, чатгпт, джипити, neuro, нейро, нейросеть, neuralnetwork, gwen, ai, ии |
+| **Платформы** | Twitch, Telegram, Discord |
+| **Кулдаун** | - **Пользователь:** 15 sec<br> - **Канал:** 5 sec |
+| **Права доступа** | - **Модератор бота:** Нет<br> - **Разработчик бота:** Нет<br> - **Модератор канала:** Нет |
+| **Версия** | 1.0.1 |
+| **Дата создания** | 2024-07-04T00:00:00.0000000Z |
+
+---
+
+💡 *Совет: Используйте команду любым из алиасов для более быстрого доступа.*
